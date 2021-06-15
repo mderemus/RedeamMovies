@@ -41,7 +41,7 @@ export default {
             mobileMenuActive: false,
             menu : [
 				{label: 'Movies', icon: 'pi pi-fw pi-home', to: '/'},
-                {label: 'View Source', icon: 'pi pi-fw pi-search', command: () => {window.location = "https://github.com/mderemus"}}
+                {label: 'View Source', icon: 'pi pi-fw pi-search', command: () => {window.location = "https://github.com/mderemus/RedeamMovies"}}
             ]
         }
     },

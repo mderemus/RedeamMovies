@@ -263,11 +263,11 @@ export default {
 				var d1 = new Date(val.releaseDate).getTime() 
 				var d2 = new Date(dateFilter).getTime();
 				if (filterType === 'before')
-					return ( d1 < d2 ) 
+					return ( d1 < d2 ); 
 				if (filterType === 'after')
-					return (d1 > d2) 	
+					return (d1 > d2);
 				if (filterType === 'on')
-					return (d1 === d2)
+					return (d1 === d2);
 			}); 
 		}
 	}
