@@ -1,0 +1,604 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Reunion",
+      "description": "Drama",
+      "releaseDate": "11/22/2011"
+    },
+    {
+      "id": 2,
+      "title": "Suddenly, Last Winter",
+      "description": "Documentary",
+      "releaseDate": "06/10/2017"
+    },
+    {
+      "id": 3,
+      "title": "Toy Story",
+      "description": "Adventure|Animation|Children|Comedy|Fantasy",
+      "releaseDate": "05/15/2007"
+    },
+    {
+      "id": 4,
+      "title": "Blade II",
+      "description": "Action|Horror|Thriller",
+      "releaseDate": "01/22/2013"
+    },
+    {
+      "id": 5,
+      "title": "How I Unleashed World War II",
+      "description": "Comedy|War",
+      "releaseDate": "03/21/2020"
+    },
+    {
+      "id": 6,
+      "title": "A Merry Friggin' Christmas",
+      "description": "Comedy",
+      "releaseDate": "04/04/2010"
+    },
+    {
+      "id": 7,
+      "title": "Rhino Season",
+      "description": "Drama|Fantasy|Film-Noir|Mystery|Romance|War",
+      "releaseDate": "02/03/2013"
+    },
+    {
+      "id": 8,
+      "title": "Pacific Heights",
+      "description": "Mystery|Thriller",
+      "releaseDate": "12/24/2002"
+    },
+    {
+      "id": 9,
+      "title": "Blackmailed",
+      "description": "Crime|Drama|Thriller",
+      "releaseDate": "01/17/2018"
+    },
+    {
+      "id": 10,
+      "title": "The Stickup",
+      "description": "Action|Crime|Mystery",
+      "releaseDate": "11/28/2020"
+    },
+    {
+      "id": 11,
+      "title": "Handsome Harry",
+      "description": "Crime|Drama",
+      "releaseDate": "01/16/2011"
+    },
+    {
+      "id": 12,
+      "title": "Johnny Got His Gun",
+      "description": "Drama|War",
+      "releaseDate": "05/19/2007"
+    },
+    {
+      "id": 13,
+      "title": "The Day They Robbed the Bank of England",
+      "description": "Crime|Drama",
+      "releaseDate": "09/13/2002"
+    },
+    {
+      "id": 14,
+      "title": "Geronimo: An American Legend",
+      "description": "Drama|Western",
+      "releaseDate": "11/18/2004"
+    },
+    {
+      "id": 15,
+      "title": "Casanova",
+      "description": "Comedy|Drama|Romance",
+      "releaseDate": "04/23/2021"
+    },
+    {
+      "id": 16,
+      "title": "Cat People",
+      "description": "Drama|Horror|Romance|Thriller",
+      "releaseDate": "09/02/2020"
+    },
+    {
+      "id": 17,
+      "title": "Che: Part Two",
+      "description": "Drama|War",
+      "releaseDate": "06/22/2013"
+    },
+    {
+      "id": 18,
+      "title": "Swimming",
+      "description": "Drama",
+      "releaseDate": "06/14/2012"
+    },
+    {
+      "id": 19,
+      "title": "I Knew It Was You: Rediscovering John Cazale",
+      "description": "Documentary",
+      "releaseDate": "09/05/2018"
+    },
+    {
+      "id": 20,
+      "title": "Once Upon a Time in the West",
+      "description": "Action|Drama|Western",
+      "releaseDate": "01/17/2000"
+    },
+    {
+      "id": 21,
+      "title": "The Fixer",
+      "description": "Drama",
+      "releaseDate": "08/09/2001"
+    },
+    {
+      "id": 22,
+      "title": "Anne of the Thousand Days",
+      "description": "Drama",
+      "releaseDate": "06/16/2016"
+    },
+    {
+      "id": 23,
+      "title": "Greetings",
+      "description": "Comedy",
+      "releaseDate": "12/02/2007"
+    },
+    {
+      "id": 24,
+      "title": "Night at Bernies",
+      "description": "Action|Comedy",
+      "releaseDate": "01/11/2019"
+    },
+    {
+      "id": 25,
+      "title": "Pigs and Battleships",
+      "description": "Comedy|Crime|Drama",
+      "releaseDate": "03/11/2007"
+    },
+    {
+      "id": 26,
+      "title": "True Crime",
+      "description": "Mystery|Thriller",
+      "releaseDate": "07/11/2012"
+    },
+    {
+      "id": 27,
+      "title": "Tukkijoella",
+      "description": "Drama",
+      "releaseDate": "01/04/2020"
+    },
+    {
+      "id": 28,
+      "title": "Only the Strong Survive - A Celebration of Soul",
+      "description": "Documentary|Musical",
+      "releaseDate": "08/09/2005"
+    },
+    {
+      "id": 29,
+      "title": "Super Inframan",
+      "description": "Action|Fantasy|Sci-Fi",
+      "releaseDate": "05/13/2013"
+    },
+    {
+      "id": 30,
+      "title": "Big Shot's Funeral",
+      "description": "Comedy",
+      "releaseDate": "08/12/2006"
+    },
+    {
+      "id": 31,
+      "title": "It",
+      "description": "Comedy|Romance",
+      "releaseDate": "07/31/2009"
+    },
+    {
+      "id": 32,
+      "title": "Pahat pojat",
+      "description": "Action|Crime|Drama",
+      "releaseDate": "01/23/2011"
+    },
+    {
+      "id": 33,
+      "title": "I Want You",
+      "description": "Drama|Romance",
+      "releaseDate": "04/28/2003"
+    },
+    {
+      "id": 34,
+      "title": "Gimme Shelter",
+      "description": "Documentary",
+      "releaseDate": "01/31/2020"
+    },
+    {
+      "id": 35,
+      "title": "Down and Out with the Dolls",
+      "description": "Comedy",
+      "releaseDate": "07/11/2010"
+    },
+    {
+      "id": 36,
+      "title": "Marvellous",
+      "description": "Drama",
+      "releaseDate": "09/28/2016"
+    },
+    {
+      "id": 37,
+      "title": "Cat and the Canary",
+      "description": "Horror|Mystery",
+      "releaseDate": "02/11/2018"
+    },
+    {
+      "id": 38,
+      "title": "20,000 Leagues Under the Sea",
+      "description": "Adventure|Drama|Sci-Fi",
+      "releaseDate": "03/28/2012"
+    },
+    {
+      "id": 39,
+      "title": "Imagine I'm Beautiful",
+      "description": "Drama",
+      "releaseDate": "07/22/2006"
+    },
+    {
+      "id": 40,
+      "title": "Once Around",
+      "description": "Drama",
+      "releaseDate": "10/22/2013"
+    },
+    {
+      "id": 41,
+      "title": "Never Say Never Again",
+      "description": "Action|Adventure|Thriller",
+      "releaseDate": "02/22/2006"
+    },
+    {
+      "id": 42,
+      "title": "Taken 2",
+      "description": "Action|Crime|Drama|Thriller",
+      "releaseDate": "07/24/2013"
+    },
+    {
+      "id": 43,
+      "title": "Drillbit Taylor",
+      "description": "Comedy",
+      "releaseDate": "06/04/2016"
+    },
+    {
+      "id": 44,
+      "title": "This Island Earth",
+      "description": "Sci-Fi",
+      "releaseDate": "03/02/2019"
+    },
+    {
+      "id": 45,
+      "title": "Confessions of a Pop Performer",
+      "description": "Comedy",
+      "releaseDate": "01/19/2004"
+    },
+    {
+      "id": 46,
+      "title": "Alaska: Silence & Solitude",
+      "description": "Documentary",
+      "releaseDate": "02/15/2016"
+    },
+    {
+      "id": 47,
+      "title": "Human Condition III",
+      "description": "Drama|War",
+      "releaseDate": "02/03/2012"
+    },
+    {
+      "id": 48,
+      "title": "An American Rhapsody",
+      "description": "Drama",
+      "releaseDate": "08/09/2009"
+    },
+    {
+      "id": 49,
+      "title": "Alien from L.A.",
+      "description": "Sci-Fi",
+      "releaseDate": "12/14/2018"
+    },
+    {
+      "id": 50,
+      "title": "Sherlock Holmes: Terror by Night",
+      "description": "Crime|Mystery|Thriller",
+      "releaseDate": "11/03/2005"
+    },
+    {
+      "id": 51,
+      "title": "Only When I Laugh",
+      "description": "Comedy|Drama",
+      "releaseDate": "04/07/2006"
+    },
+    {
+      "id": 52,
+      "title": "St. Vincent",
+      "description": "Comedy",
+      "releaseDate": "05/16/2020"
+    },
+    {
+      "id": 53,
+      "title": "Fun Size",
+      "description": "Comedy",
+      "releaseDate": "02/16/2005"
+    },
+    {
+      "id": 54,
+      "title": "Spitfire Grill",
+      "description": "Drama",
+      "releaseDate": "04/23/2004"
+    },
+    {
+      "id": 55,
+      "title": "Joker",
+      "description": "Comedy",
+      "releaseDate": "07/30/2005"
+    },
+    {
+      "id": 56,
+      "title": "Video Games: The Movie",
+      "description": "Documentary",
+      "releaseDate": "12/02/2009"
+    },
+    {
+      "id": 57,
+      "title": "When the Bough Breaks",
+      "description": "Drama|Thriller",
+      "releaseDate": "06/23/2014"
+    },
+    {
+      "id": 58,
+      "title": "Honeymooners",
+      "description": "Comedy",
+      "releaseDate": "12/17/2016"
+    },
+    {
+      "id": 59,
+      "title": "Century of the Self",
+      "description": "Documentary",
+      "releaseDate": "07/11/2000"
+    },
+    {
+      "id": 60,
+      "title": "The Shakiest Gun in the West",
+      "description": "Comedy|Western",
+      "releaseDate": "04/11/2006"
+    },
+    {
+      "id": 61,
+      "title": "The Night Stalker",
+      "description": "Horror|Thriller",
+      "releaseDate": "09/03/2006"
+    },
+    {
+      "id": 62,
+      "title": "Searching for Bobby Fischer",
+      "description": "Drama",
+      "releaseDate": "12/17/2006"
+    },
+    {
+      "id": 63,
+      "title": "Last Dance",
+      "description": "Drama",
+      "releaseDate": "08/14/2015"
+    },
+    {
+      "id": 64,
+      "title": "Day at the Beach",
+      "description": "Comedy|Romance",
+      "releaseDate": "01/03/2005"
+    },
+    {
+      "id": 65,
+      "title": "Sheena",
+      "description": "Action|Adventure|Fantasy",
+      "releaseDate": "09/07/2015"
+    },
+    {
+      "id": 66,
+      "title": "Graveyard of Honor",
+      "description": "Action|Crime|Thriller",
+      "releaseDate": "03/25/2021"
+    },
+    {
+      "id": 67,
+      "title": "Lucky: No Time For Love",
+      "description": "Action|Adventure|Drama|Musical|Romance|Thriller|War",
+      "releaseDate": "12/30/2019"
+    },
+    {
+      "id": 68,
+      "title": "Bird of Prey",
+      "description": "Action",
+      "releaseDate": "03/22/2000"
+    },
+    {
+      "id": 69,
+      "title": "To Cross the Rubicon",
+      "description": "Drama",
+      "releaseDate": "03/06/2016"
+    },
+    {
+      "id": 70,
+      "title": "Fortress",
+      "description": "Action|Thriller",
+      "releaseDate": "06/19/2014"
+    },
+    {
+      "id": 71,
+      "title": "Milk and Honey",
+      "description": "Drama",
+      "releaseDate": "02/07/2016"
+    },
+    {
+      "id": 72,
+      "title": "Spontaneous Combustion",
+      "description": "Horror|Sci-Fi|Thriller",
+      "releaseDate": "01/08/2019"
+    },
+    {
+      "id": 73,
+      "title": "In My Father's Den",
+      "description": "Drama",
+      "releaseDate": "09/04/2020"
+    },
+    {
+      "id": 74,
+      "title": "Dogfight",
+      "description": "Drama|Romance",
+      "releaseDate": "09/12/2015"
+    },
+    {
+      "id": 75,
+      "title": "Singham",
+      "description": "Action|Drama|Romance",
+      "releaseDate": "09/25/2017"
+    },
+    {
+      "id": 76,
+      "title": "Murder in Greenwich",
+      "description": "Crime|Drama|Mystery",
+      "releaseDate": "10/19/2000"
+    },
+    {
+      "id": 77,
+      "title": "Getting to Know You",
+      "description": "Comedy|Drama",
+      "releaseDate": "12/05/2007"
+    },
+    {
+      "id": 78,
+      "title": "God's Sandbox",
+      "description": "Drama",
+      "releaseDate": "11/28/2009"
+    },
+    {
+      "id": 79,
+      "title": "The Butterfly Effect",
+      "description": "Drama|Sci-Fi|Thriller",
+      "releaseDate": "04/27/2014"
+    },
+    {
+      "id": 80,
+      "title": "Me tulemme taas",
+      "description": "Comedy|Musical",
+      "releaseDate": "12/06/2011"
+    },
+    {
+      "id": 81,
+      "title": "Superman and the Mole-Men",
+      "description": "Children|Mystery|Sci-Fi",
+      "releaseDate": "04/05/2008"
+    },
+    {
+      "id": 82,
+      "title": "Search for the Beast",
+      "description": "Horror",
+      "releaseDate": "11/30/2002"
+    },
+    {
+      "id": 83,
+      "title": "Hunters",
+      "description": "Drama|War",
+      "releaseDate": "03/19/2001"
+    },
+    {
+      "id": 84,
+      "title": "The Rundown",
+      "description": "Action|Adventure|Comedy",
+      "releaseDate": "04/28/2001"
+    },
+    {
+      "id": 85,
+      "title": "The Ruins",
+      "description": "Horror|Thriller",
+      "releaseDate": "04/06/2011"
+    },
+    {
+      "id": 86,
+      "title": "Molly Maxwell",
+      "description": "Drama|Romance",
+      "releaseDate": "05/24/2011"
+    },
+    {
+      "id": 87,
+      "title": "Five",
+      "description": "Drama|Horror|Sci-Fi",
+      "releaseDate": "06/05/2013"
+    },
+    {
+      "id": 88,
+      "title": "The Mother",
+      "description": "Drama",
+      "releaseDate": "05/24/2002"
+    },
+    {
+      "id": 89,
+      "title": "Foreign Letters",
+      "description": "Comedy|Drama",
+      "releaseDate": "12/18/2020"
+    },
+    {
+      "id": 90,
+      "title": "Afternoon Delight",
+      "description": "Comedy|Drama",
+      "releaseDate": "02/02/2012"
+    },
+    {
+      "id": 91,
+      "title": "Doctor Dolittle",
+      "description": "Adventure|Children|Musical",
+      "releaseDate": "12/28/2012"
+    },
+    {
+      "id": 92,
+      "title": "Dragon Ball Z: Bio-Broly",
+      "description": "Action|Adventure|Animation",
+      "releaseDate": "05/04/2014"
+    },
+    {
+      "id": 93,
+      "title": "Club Sandwich",
+      "description": "Comedy",
+      "releaseDate": "07/22/2020"
+    },
+    {
+      "id": 94,
+      "title": "Names of Love, The (Le nom des gens)",
+      "description": "Comedy",
+      "releaseDate": "01/17/2012"
+    },
+    {
+      "id": 95,
+      "title": "Herbie Rides Again",
+      "description": "Adventure|Children|Comedy",
+      "releaseDate": "12/07/2001"
+    },
+    {
+      "id": 96,
+      "title": "Doctor at Large",
+      "description": "Comedy|Romance",
+      "releaseDate": "02/13/2019"
+    },
+    {
+      "id": 97,
+      "title": "I Shot Jesse James",
+      "description": "Drama|Romance|Western",
+      "releaseDate": "06/10/2021"
+    },
+    {
+      "id": 98,
+      "title": "Touki Bouki",
+      "description": "Drama",
+      "releaseDate": "04/24/2016"
+    },
+    {
+      "id": 99,
+      "title": "Hundred and One Nights",
+      "description": "Comedy",
+      "releaseDate": "09/25/2002"
+    },
+    {
+      "id": 100,
+      "title": "Sudden Manhattan",
+      "description": "Comedy",
+      "releaseDate": "04/16/2007"
+    }
+  ]
+}
